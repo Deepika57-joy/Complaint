@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Complaint Box</string>
+    <string name="District_prompt">District</string>
+    <string name="Ward_prompt">WardNo</string>
+    <string name="Taluk_prompt">Taluk</string>
+
+    <string-array name="district_arrays">
+        <item>District</item>
+        <item>Tirunelveli</item>
+        <item>Tenkasi</item>
+        <item>Tuticorin</item>
+        <item>Ramanathapuram</item>
+        <item>Madurai</item>
+        <item>Virudhunagar</item>
+        <item>Kanyakumari</item>
+        <item>Theni</item>
+
+    </string-array>
+    <string-array name="ward_arrays">
+        <item>Ward no</item>
+        <item>50</item>
+        <item>51</item>
+        <item>52</item>
+        <item>53</item>
+        <item>54</item>
+        <item>55</item>
+    </string-array>
+    <string-array name="taluk_arrays">
+        <item>Taluk</item>
+        <item>Tirunelveli</item>
+        <item>Ambasamudram</item>
+        <item>Nanguneri</item>
+        <item>Palayamkottai</item>
+        <item>Sivagiri</item>
+        <item>Senkottai</item>
+    </string-array>
+</resources>
